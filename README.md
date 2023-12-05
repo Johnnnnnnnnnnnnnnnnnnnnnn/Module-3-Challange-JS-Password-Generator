@@ -8,4 +8,4 @@ This is a password generator that has been made using Java Script. It can take u
 4. if they wanted to include numeric characters or not.
 5. if they wanted to include special characters or not.
 
-Note: This project we're made together during the bootcamp class with the guide from Tom.
+Note: This project we're made together with everyone during the bootcamp class with the guide from Instructor Tom.
